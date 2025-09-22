@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marcus, an ambitious IT Professional</a>☺</h1>
+<h1>Hi, I'm Marcus, An Ambitious IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
