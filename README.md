@@ -3,8 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [How To Create An Azure Resource Group And Storage Account]([https://github.com/joshmadakorcc/configure-ad](https://github.com/Mpalm15/How-to-Create-an-Azure-Resource-Group-and-Storage-Account))
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [How To Create An Azure Resource Group And Storage Account](https://github.com/Mpalm15/How-to-Create-an-Azure-Resource-Group-and-Storage-Account)
+  - [Creating a Windows 10 Virtual Machine and Virtual Network](https://github.com/Mpalm15/Creating-a-Windows-10-Virtual-Machine-and-Virtual-Network/blob/main/README.md)
+  - [How to use Remote Desktop Connection](https://github.com/Mpalm15/How-to-use-Remote-Desktop-Connection/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/marcus-palm
